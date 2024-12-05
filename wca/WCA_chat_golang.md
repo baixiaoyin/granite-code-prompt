@@ -17,6 +17,9 @@ get an API KEY for watsonx Code Assistant
 
 ![alt text](/images/new_chat_button.png)
 
+### 2. install go in your machie
+
+### Mac: brew install go
 
 ## tips
 
